@@ -1,6 +1,8 @@
 # Asset_Allcatiton
 Fall 2020 GSAM Asset Allocation Project
 
-Random Monte Carlo Sampliing of Morningstar Data 
+Project Goal: Quantifying Qualititative Asset Allocatiton 
+
+Random Monte Carlo Sampling of Morningstar Data 
 
 
